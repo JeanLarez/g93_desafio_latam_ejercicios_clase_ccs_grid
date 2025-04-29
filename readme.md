@@ -1,8 +1,9 @@
 # 🧱 CSS Grid - Ejercicios de clase Desafío Latam
 
-![CSS Grid](https://img.shields.io/badge/CSS--Grid-Ejercicios-blueviolet?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive%20Design-Applied-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Estado-Completo-brightgreen?style=for-the-badge)
+[![CSS Grid](https://img.shields.io/badge/CSS--Grid-Ejercicios-blueviolet?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_grid_layout)
+[![Responsive](https://img.shields.io/badge/Responsive%20Design-Applied-success?style=for-the-badge)](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Responsive_Design)
+[![Estado](https://img.shields.io/badge/Estado-Completo-brightgreen?style=for-the-badge)](https://jeanlarez.github.io/g93_desafio_latam_ejercicios_clase_ccs_grid/)
+
 
 > Ejercicios prácticos realizados en clase para aprender **CSS Grid Layout** con alumnos de Desafío Latam.
 
@@ -32,9 +33,9 @@
 
 | Ejercicio | Descripción |
 |----------|-------------|
-| [Ejercicio 1](./ejercicio-1-galeria-simple) | Galería básica con columnas en % y `fr` |
-| [Ejercicio 2](./ejercicio-2-galeria-responsiva) | Galería adaptativa usando `auto-fit` y `minmax()` |
-| [Ejercicio 3](./ejercicio-3-layout-grid-areas) | Layout completo con `grid-template-areas` |
+| [Ejercicio 1](https://github.com/JeanLarez/g93_desafio_latam_ejercicios_clase_ccs_grid/tree/main/01-grid-container-grid-item) | Galería básica con columnas en % y `fr` |
+| [Ejercicio 2](https://github.com/JeanLarez/g93_desafio_latam_ejercicios_clase_ccs_grid/tree/main/02-galeria) | Galería adaptativa usando `auto-fit` y `minmax()` |
+| [Ejercicio 3](https://github.com/JeanLarez/g93_desafio_latam_ejercicios_clase_ccs_grid/tree/main/03-layout-grid) | Layout completo con `grid-template-areas` |
 
 ---
 
