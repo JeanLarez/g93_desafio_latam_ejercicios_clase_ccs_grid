@@ -1,31 +1,27 @@
+.grid-container {
+  display: grid; /* Activamos Grid Layout */
+  grid-template-areas:
+    "header header header"
+    "menu main right"
+    "menu footer footer"; /* Definimos las áreas del layout con nombres */
+}
+
 .header {
   grid-area: header;
 }
-
 .menu {
   grid-area: menu;
 }
-
 .main {
   grid-area: main;
 }
-
 .right {
   grid-area: right;
 }
-
 .footer {
   grid-area: footer;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    "header header header"
-    "menu main right"
-    "menu footer footer";
-}
-
 .box {
-  border: 2px solid #0286bf;
+  border: 2px solid #0286bf; /* Visualización de las áreas con bordes */
 }

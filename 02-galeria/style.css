@@ -1,15 +1,15 @@
 .grid-container {
-    display: grid;
-    grid-template-columns: 
-    repeat(auto-fit, minmax(250px, 1fr));
-    gap: 10px;
-  }
+  display: grid; /* Activamos Grid Layout */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  /* Crea columnas automáticas que se ajustan entre 250px y una fracción del espacio disponible */
+  gap: 10px; /* Espaciado entre columnas y filas */
+}
 
-  .grid-item {
-    border: solid 1px black;
-  }
+.grid-item {
+  border: solid 1px black;
+}
 
-  .grid-item img {
-    width: 100%;
-    height: 100%;
-  }
+.grid-item img {
+  width: 100%; /* La imagen se adapta completamente al ancho del contenedor */
+  height: 100%; /* La imagen se adapta completamente al alto del contenedor */
+}

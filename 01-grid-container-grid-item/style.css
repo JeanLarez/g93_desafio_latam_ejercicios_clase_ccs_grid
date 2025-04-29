@@ -1,10 +1,9 @@
 .grid-container {
-  display: grid;
-  grid-template-columns: 40% 1fr;
-  gap: 10px;
+  display: grid; /* Activamos Grid Layout */
+  grid-template-columns: 40% 1fr; /* Primera columna con 40% del ancho, segunda con el resto */
+  gap: 10px; /* Espaciado (gap) entre celdas */
 }
 
 .grid-item {
- border: 1px solid black;
-  
-}	
+  border: 1px solid black; /* Para visualizar los bordes de los ítems */
+}
